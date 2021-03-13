@@ -142,3 +142,5 @@ dmypy.json
 .xslx
 .xls
 .DS_Store
+.idea
+.vscode
