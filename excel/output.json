@@ -1,0 +1,92 @@
+[
+    {
+        "tenantId": "KSKA",
+        "levelCode": "Nov",
+        "levelName": "White",
+        "levelAltName": "Novice"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L10",
+        "levelName": "Blue",
+        "levelAltName": "10th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L9",
+        "levelName": "Orange",
+        "levelAltName": "9th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L8",
+        "levelName": "Red",
+        "levelAltName": "8th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L7",
+        "levelName": "Yellow",
+        "levelAltName": "7th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L6",
+        "levelName": "Green",
+        "levelAltName": "6th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L5",
+        "levelName": "Purple",
+        "levelAltName": "5th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L4",
+        "levelName": "Purple White",
+        "levelAltName": "4th"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L3",
+        "levelName": "Brown",
+        "levelAltName": "3rd"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L2",
+        "levelName": "Brown & white",
+        "levelAltName": "2nd"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "L1",
+        "levelName": "Brown & 2 white",
+        "levelAltName": "1st"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "PSHO1",
+        "levelName": "Brown & 1 red",
+        "levelAltName": "Pre Shodan 1"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "PSHO2",
+        "levelName": "Brown & 2 red",
+        "levelAltName": "Pre Shodan 2"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "PSHO3",
+        "levelName": "Brown & Black",
+        "levelAltName": "Pre Shodan 3"
+    },
+    {
+        "tenantId": "KSKA",
+        "levelCode": "SHO01",
+        "levelName": "Black",
+        "levelAltName": "Shodan"
+    }
+]
